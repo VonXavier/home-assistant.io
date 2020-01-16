@@ -40,8 +40,8 @@ discovery:
     - yeelight
 yeelight:
   devices:
-    192.168.1.25:
-      name: Living Room
+   192.168.1.25:
+    name: Living Room
 ```
 
 {% configuration %}
